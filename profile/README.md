@@ -8,7 +8,7 @@
 
 | Repo | Description |
 |------|-------------|
-| [wp-cloudflare-real-ip](https://github.com/CultureDev-Labs/wp-cloudflare-real-ip) | **Real IP Restore for Cloudflare** — restores the real visitor IP behind Cloudflare's proxy on cPanel hosts that lack native mod_remoteip |
+| [wp-cloudflare-real-ip](https://github.com/CultureDev-Labs/wp-real-ip-restore-for-cloudflare) | **Real IP Restore for Cloudflare** — restores the real visitor IP behind Cloudflare's proxy on cPanel hosts that lack native mod_remoteip |
 | [netlinking](https://github.com/CultureDev-Labs/netlinking) | Internal linking automation, OpenAI keyword expansion & Google Search Console backlink monitor |
 | [wp-smart-forms](https://github.com/CultureDev-Labs/wp-smart-forms) | Accessible spam-free forms with Turnstile |
 | [wp-seo-toolkit](https://github.com/CultureDev-Labs/wp-seo-toolkit) | Lightweight SEO utilities & schema injection |
@@ -45,3 +45,4 @@
 [![Contact](https://img.shields.io/badge/Contact-contact%40apps.culture--dev.eu-gray?style=flat-square)](mailto:contact@apps.culture-dev.eu)
 
 > All plugins are open source under GPL-2.0. Contributions welcome.
+
